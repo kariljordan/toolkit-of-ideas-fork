@@ -189,7 +189,7 @@ Tara Robertson consulted with Carpentries’ Team Leads and then worked with Aly
 
 * Inclusion of DEI and Accessibility Statements
 * Inclusion of sections on intersectionality and how to manage disruptive learners 
-* Host-specific information for contacting Disability Support Services on campus or utilising human resources or diversity and inclusion departments for setting up accommodations.
+* Host-specific information for contacting Disability Support Services on campus or utilising human resources or diversity and inclusion departments for setting up accessibility support.
 * More examples of potential actions to address these topics
 * Restructured format to enhance the flow of sections, making it easier for readers to access relevant information.
 
