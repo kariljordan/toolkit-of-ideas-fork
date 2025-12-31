@@ -46,8 +46,8 @@ Inclusion explicitly shows up in the following three core values:
         * Challenge yourself to incorporate at least one new inclusive teaching strategy into your workshop, such as using inclusive language, facilitating group discussions, or providing multiple ways to engage with the content.
 * How do you want to set up the workshop as an inclusive learning environment for this specific group of learners? 
     * **Things you can do:**
-        * Include a section in the registration form that allows participants to share any specific needs or accommodations they require to fully participate in the workshop. Ensure confidentiality and follow up with them to provide necessary support.
-        * Check the accessibility recommendations in this toolkit for tips on asking what disability accommodations learners need. 
+        * Include a section in the registration form that allows participants to share any specific needs or accessibility support they require to fully participate in the workshop. Ensure confidentiality and follow up with them to provide necessary support.
+        * Check the accessibility recommendations in this toolkit for tips on asking what accessibility support for learners with disabilities is available. 
         * For in-person workshops, ensure that the physical space is accessible, including the bathrooms. Where is the nearest gender-neutral bathroom? Is there a place for parents to breast or chest feed or pump milk? 
         * Consider learner needs when scheduling breaks, including
             * Bathroom breaks
