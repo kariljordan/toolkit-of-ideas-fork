@@ -35,19 +35,19 @@ Accessibility explicitly shows up in the following two core values:
 
 * What funding is available at my institution to support accessibility services? Does my institution offer accessibility services for free? 
     * **Things you can do:**
-        * Check with the Accessibility or Disability Support Services office at your institution. If your institution does not have these services, utilise [accommodation services made available through The Carpentries](https://carpentries.org/eia/).
+        * Check with the Accessibility or Disability Support Services office at your institution. If your institution does not have these services, utilise [accessibility support services made available through The Carpentries](https://carpentries.org/eia/).
 * What accessibility needs do you have as an Instructor? What is your level of comfort in talking about this with your co-Instructor(s) and learners? 
     * **Things you can do:**
-        * As an Instructor, if you require specific accommodations, such as captioning for videos you use in the workshop, ensure you communicate these needs to your co-Instructor(s) and discuss how to implement them effectively.
+        * As an Instructor, if you require specific accessibility support, such as captioning for videos you use in the workshop, ensure you communicate these needs to your co-Instructor(s) and discuss how to implement them effectively.
 * What will you do to ensure the decisions you make as an Instructor are not creating access barriers for learners? 
     * **Things you can do:**
         * Use the guidelines set forth in the Toolkit of IDEAs in your teaching practices 
         * Explore [Universal Design for Learning](https://www.cast.org/impact/universal-design-for-learning-udl) and use diverse methods for instruction, including presenting content in various formats, including text, audio, and visuals, to accommodate different learning styles and preferences.
 * Who can you connect with in your organisation or region to learn more about accessibility to include learners with disabilities in your workshops? 
     * **Things you can do:**
-        * Most colleges and universities have a Resource Office that can help to ensure that events are accessible to all attendees. This office will provide guidance on what types of accommodations are available and how to arrange them. Institutions have different requirements on the amount of lead time needed to set up accommodations. We recommend contacting them as soon as you schedule a Carpentries event. 
-        * Organisations may have a variety of resources available to help with providing accommodations. This could be Human Resources or Diversity and Inclusion Departments. These departments can share what accommodations are available and how to arrange them. This may include a Disability Officer, a Diversity and Inclusion Manager, or an Accessibility Coordinator. 
-        * Employee resource groups (ERGs) might be available to support inclusion and provide guidance and support on accommodations.
+        * Most colleges and universities have a Resource Office that can help to ensure that events are accessible to all attendees. This office will provide guidance on what types of accessibility support is available and how to arrange them. Institutions have different requirements on the amount of lead time needed to set up accessibility support. We recommend contacting them as soon as you schedule a Carpentries event. 
+        * Organisations may have a variety of resources available to help with providing accessibility support. This could be Human Resources or Diversity and Inclusion Departments. These departments can share what accessibility support is available and how to arrange them. This may include a Disability Officer, a Diversity and Inclusion Manager, or an Accessibility Coordinator. 
+        * Employee resource groups (ERGs) might be available to support inclusion and provide guidance and accessibility support.
 * How will you give yourself grace and welcome the learning opportunity when you inevitably make a mistake or get something wrong? 
     * **Things you can do:**
         * Embrace the understanding that mistakes are part of the learning process. If you make an error during the workshop, view it as an opportunity to model a growth mindset for your learners. Acknowledge the mistake, correct it, and continue, emphasising the importance of learning from challenges.
@@ -56,10 +56,10 @@ Accessibility explicitly shows up in the following two core values:
         * Consider whether your teaching style aligns with your own preferred learning methods. To accommodate diverse learning preferences, explore incorporating hands-on activities, discussions, and audio resources to cater to participants who may learn differently. This broadens the learning experience for everyone.
 * How do you create an accessible learning environment?
     * **Things you can do:**
-        * In the workshop registration, consider using language that demonstrates your commitment to accessibility. For example: “We are dedicated to providing a positive and accessible learning environment for all. Please notify the Instructors in advance of the workshop if you require any accommodations or if there is anything we can do to make this workshop more accessible to you.” 
+        * In the workshop registration, consider using language that demonstrates your commitment to accessibility. For example: “We are dedicated to providing a positive and accessible learning environment for all. Please notify the Instructors in advance of the workshop if you require any accessibility support or if there is anything we can do to make this workshop more accessible to you.” 
         * Ask about learner needs for the workshop. It is not necessary to know about someone’s disability or medical condition (and it is insensitive and, in some places, illegal to ask). For example, someone who is hard of hearing in an online workshop might need videos to be captioned, automatic captions on Zoom turned on, and the Instructor to use a microphone so their voice is clearer. Trust that learners know what they need.  
         * Understand that the intersectionality of disability and other social identities can also affect accessibility. Something could be accessible to people with physical disabilities but not accessible to people with cognitive disabilities or language barriers.
-        * Learn more about [Universal Design for Learning](https://www.cast.org/impact/universal-design-for-learning-udl). This framework can be used to improve and optimise teaching and learning for all people based on scientific insights into how humans learn. By incorporating Universal Design, a more inclusive environment is created, reducing the number of individual accommodations that are necessary.   
+        * Learn more about [Universal Design for Learning](https://www.cast.org/impact/universal-design-for-learning-udl). This framework can be used to improve and optimise teaching and learning for all people based on scientific insights into how humans learn. By incorporating Universal Design, a more inclusive environment is created, reducing the number of individual accessibility support services that are necessary.   
         * Use the [Accessible Presenter Guidelines](https://docs.google.com/document/d/1xc6idZHp86RNfcm6f-D2LltKHCPjXrGuHftCuYWedKg/edit) developed by The Carpentries to ensure that your resources and teaching are accessible. 
         * Share the agenda and workshop materials with learners at least 24 hours before the workshop. 
         * If creating video content for your learners, ensure these videos have captions. Numerous video conferencing platforms feature integrated automated captioning with varying levels of accuracy that continue to improve over time. Both free and paid captioning services are available across these platforms. Certain platforms even provide the option of obtaining live-generated captions, which ensures greater precision but may come with additional costs.
@@ -91,7 +91,7 @@ Accessibility explicitly shows up in the following two core values:
         * Utilise workshop Helpers to ensure learners are not falling behind.
     * **Recommendations specific to virtual workshops**
 * For virtual workshops, keep track of the chat and repeat the questions and answers that come up there.  
-* Utilise automatic closed captioning- either through [Zoom](https://support.zoom.us/hc/en-us/articles/4409683389709) or other online platforms. The Carpentries does not allow external AI bots to be used for notetaking purposes to protect the privacy of all attendees unless they have been specifically requested as an accommodation.
+* Utilise automatic closed captioning- either through [Zoom](https://support.zoom.us/hc/en-us/articles/4409683389709) or other online platforms. The Carpentries does not allow external AI bots to be used for notetaking purposes to protect the privacy of all attendees unless they have been specifically requested as an accessibility support.
 * Use a headset with a boom mic or an external mic for higher-quality audio. 
 * Recognise that participants may have varying internet connection speeds and access. Encourage asynchronous participation options for those who may face connectivity issues. Allow participants to turn their cameras off and turn off other video feeds to allow for better connectivity. 
 * Incorporate regular breaks to combat screen fatigue and allow participants to briefly step away from their screens during longer sessions.
@@ -121,7 +121,7 @@ Accessibility explicitly shows up in the following two core values:
         * Apply the accessibility strategies and insights gained from Carpentries workshops to other educational settings, fostering a more inclusive teaching approach.
 * How can you evaluate the accessibility of your workshop?
     * **Things you can do:**
-        * Include questions related to accessibility and accommodation satisfaction in post-workshop surveys to continually assess and improve your inclusive practices.
+        * Include questions related to accessibility support and satisfaction in post-workshop surveys to continually assess and improve your inclusive practices.
 * What came up during the workshop related to accessibility that you need to learn more about before your next workshop?
     * **Things you can do:**
-        * Have a post-workshop meeting with Instructors and Helpers, and discuss what went well with accommodations and how the workshop could improve. Commit to learning about a specific accessibility gap that occurred and make it better for the next workshop. 
+        * Have a post-workshop meeting with Instructors and Helpers, and discuss what went well with accessibility support and how the workshop could improve. Commit to learning about a specific accessibility gap that occurred and make it better for the next workshop. 
